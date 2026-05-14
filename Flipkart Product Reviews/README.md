@@ -2,7 +2,7 @@
 
 A production-grade End-to-End MLOps project for Sentiment Analysis on Flipkart Product Reviews. This project demonstrates industry-standard practices including Experiment Tracking, Model Registry, Automated Pipelines, and Deployment.
 
-## Click here for live Demo[Live Demo](https://flipkart-sentiment-app-100.streamlit.app/) 
+
 
 ## 🚀 Project Overview
 
@@ -173,5 +173,5 @@ View the Dashboard at [http://127.0.0.1:4200](http://127.0.0.1:4200).
 
 ## 📝 Authors
 
-Built by **karthik Vana**.
+Built by **sHASHI KIRAN T**.
 ```
