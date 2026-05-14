@@ -9,20 +9,6 @@
 
 ---
 
-**Built by Karthik Vana**
-
-<a href="https://flipkart-sentiment-analysis.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-Click_Here-FF9900?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-</a>
-
-#
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://karthik-vana.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-vana/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karthik-vana)
-
-</div>
-
 ## 📌 Project Overview
 An end-to-end, production-ready Sentiment Analysis system designed to classify Flipkart product reviews (specifically for the YONEX MAVIS 350 Nylon Shuttle) into **Positive** or **Negative** sentiment. It also extracts key **pain points** from negative reviews to identify customer dissatisfaction themes.
 
@@ -125,20 +111,7 @@ npm run dev
 
 ## 👨‍💻 Created By
 
-### Karthik Vana
-
-#scan the QR code below:
-
-<img src="karthik-vana.png" alt="Scan for Live Demo" width="200">
-
-**Data Science Enthusiast | Machine Learning Engineer | AI Engineer**
-
-*Building practical ML solutions for real-world problems*
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthik-vana)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-vana/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](karthikvana236@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-v-smoky.vercel.app/)
+### SHASHI KIRAN T
 
 ## 💼 Open to Data Science & ML opportunities
 
